@@ -1,1 +1,0 @@
-Malicious samples for macOS
